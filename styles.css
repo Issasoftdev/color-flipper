@@ -3,13 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    color: white;
 }
 
 body {
     display: flex;
     flex-direction: column;
-    background-color: #202b38;
 }
 
 .navBar {
@@ -43,6 +41,8 @@ main {
     text-align: center;
 }
 
-button {
-    background-color: #202b38;
+
+.btn {
+    height: 50px;
+    width: 50%;
 }
